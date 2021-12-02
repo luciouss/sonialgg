@@ -29,7 +29,7 @@ local BodyParts = {
     "UpperTorso",
     "Head"
 }
-local invitecode = ""
+local invitecode = "dVUebk5qp"
 local SONIAL_Chatspam = {
     "SONIAL ON TOP!",
     "OWNING ANY OTHER CHEAT THEN SONIAL MAKES YOU AN IDIOT LIBERAL",
